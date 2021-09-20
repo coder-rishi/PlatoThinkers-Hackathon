@@ -7,10 +7,5 @@
         "default_icon": "Fakeicon1.png",
         "default_popup": "html/popup.html",
         "default_title": "FakeHound Extension"
-    },
-    "app": {
-        "background": {
-          "scripts": ["background.js"]
-        }
-      }
+    }
 }
